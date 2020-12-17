@@ -1,0 +1,12 @@
+C:\Users\Andre\Desktop\Lista2\Q11\Q11\bin\Debug\netcoreapp3.1\Q11.exe
+C:\Users\Andre\Desktop\Lista2\Q11\Q11\bin\Debug\netcoreapp3.1\Q11.deps.json
+C:\Users\Andre\Desktop\Lista2\Q11\Q11\bin\Debug\netcoreapp3.1\Q11.runtimeconfig.json
+C:\Users\Andre\Desktop\Lista2\Q11\Q11\bin\Debug\netcoreapp3.1\Q11.runtimeconfig.dev.json
+C:\Users\Andre\Desktop\Lista2\Q11\Q11\bin\Debug\netcoreapp3.1\Q11.dll
+C:\Users\Andre\Desktop\Lista2\Q11\Q11\bin\Debug\netcoreapp3.1\Q11.pdb
+C:\Users\Andre\Desktop\Lista2\Q11\Q11\obj\Debug\netcoreapp3.1\Q11.AssemblyInfoInputs.cache
+C:\Users\Andre\Desktop\Lista2\Q11\Q11\obj\Debug\netcoreapp3.1\Q11.AssemblyInfo.cs
+C:\Users\Andre\Desktop\Lista2\Q11\Q11\obj\Debug\netcoreapp3.1\Q11.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\Lista2\Q11\Q11\obj\Debug\netcoreapp3.1\Q11.dll
+C:\Users\Andre\Desktop\Lista2\Q11\Q11\obj\Debug\netcoreapp3.1\Q11.pdb
+C:\Users\Andre\Desktop\Lista2\Q11\Q11\obj\Debug\netcoreapp3.1\Q11.genruntimeconfig.cache
