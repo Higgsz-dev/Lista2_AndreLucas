@@ -1,0 +1,12 @@
+C:\Users\Andre\Desktop\Lista2\Q8\Q8\bin\Debug\netcoreapp3.1\Q8.exe
+C:\Users\Andre\Desktop\Lista2\Q8\Q8\bin\Debug\netcoreapp3.1\Q8.deps.json
+C:\Users\Andre\Desktop\Lista2\Q8\Q8\bin\Debug\netcoreapp3.1\Q8.runtimeconfig.json
+C:\Users\Andre\Desktop\Lista2\Q8\Q8\bin\Debug\netcoreapp3.1\Q8.runtimeconfig.dev.json
+C:\Users\Andre\Desktop\Lista2\Q8\Q8\bin\Debug\netcoreapp3.1\Q8.dll
+C:\Users\Andre\Desktop\Lista2\Q8\Q8\bin\Debug\netcoreapp3.1\Q8.pdb
+C:\Users\Andre\Desktop\Lista2\Q8\Q8\obj\Debug\netcoreapp3.1\Q8.AssemblyInfoInputs.cache
+C:\Users\Andre\Desktop\Lista2\Q8\Q8\obj\Debug\netcoreapp3.1\Q8.AssemblyInfo.cs
+C:\Users\Andre\Desktop\Lista2\Q8\Q8\obj\Debug\netcoreapp3.1\Q8.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\Lista2\Q8\Q8\obj\Debug\netcoreapp3.1\Q8.dll
+C:\Users\Andre\Desktop\Lista2\Q8\Q8\obj\Debug\netcoreapp3.1\Q8.pdb
+C:\Users\Andre\Desktop\Lista2\Q8\Q8\obj\Debug\netcoreapp3.1\Q8.genruntimeconfig.cache
