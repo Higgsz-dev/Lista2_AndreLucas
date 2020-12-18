@@ -1,0 +1,13 @@
+C:\Users\Andre\Desktop\Lista2\Q19\Q19\bin\Debug\netcoreapp3.1\Q19.exe
+C:\Users\Andre\Desktop\Lista2\Q19\Q19\bin\Debug\netcoreapp3.1\Q19.deps.json
+C:\Users\Andre\Desktop\Lista2\Q19\Q19\bin\Debug\netcoreapp3.1\Q19.runtimeconfig.json
+C:\Users\Andre\Desktop\Lista2\Q19\Q19\bin\Debug\netcoreapp3.1\Q19.runtimeconfig.dev.json
+C:\Users\Andre\Desktop\Lista2\Q19\Q19\bin\Debug\netcoreapp3.1\Q19.dll
+C:\Users\Andre\Desktop\Lista2\Q19\Q19\bin\Debug\netcoreapp3.1\Q19.pdb
+C:\Users\Andre\Desktop\Lista2\Q19\Q19\obj\Debug\netcoreapp3.1\Q19.AssemblyInfoInputs.cache
+C:\Users\Andre\Desktop\Lista2\Q19\Q19\obj\Debug\netcoreapp3.1\Q19.AssemblyInfo.cs
+C:\Users\Andre\Desktop\Lista2\Q19\Q19\obj\Debug\netcoreapp3.1\Q19.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\Lista2\Q19\Q19\obj\Debug\netcoreapp3.1\Q19.dll
+C:\Users\Andre\Desktop\Lista2\Q19\Q19\obj\Debug\netcoreapp3.1\Q19.pdb
+C:\Users\Andre\Desktop\Lista2\Q19\Q19\obj\Debug\netcoreapp3.1\Q19.genruntimeconfig.cache
+C:\Users\Andre\Desktop\Lista2\Q19\Q19\obj\Debug\netcoreapp3.1\Q19.csprojAssemblyReference.cache
