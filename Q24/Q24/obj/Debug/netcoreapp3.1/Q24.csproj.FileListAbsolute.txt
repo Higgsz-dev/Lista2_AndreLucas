@@ -1,0 +1,12 @@
+C:\Users\Andre\Desktop\Lista2\Q24\Q24\bin\Debug\netcoreapp3.1\Q24.exe
+C:\Users\Andre\Desktop\Lista2\Q24\Q24\bin\Debug\netcoreapp3.1\Q24.deps.json
+C:\Users\Andre\Desktop\Lista2\Q24\Q24\bin\Debug\netcoreapp3.1\Q24.runtimeconfig.json
+C:\Users\Andre\Desktop\Lista2\Q24\Q24\bin\Debug\netcoreapp3.1\Q24.runtimeconfig.dev.json
+C:\Users\Andre\Desktop\Lista2\Q24\Q24\bin\Debug\netcoreapp3.1\Q24.dll
+C:\Users\Andre\Desktop\Lista2\Q24\Q24\bin\Debug\netcoreapp3.1\Q24.pdb
+C:\Users\Andre\Desktop\Lista2\Q24\Q24\obj\Debug\netcoreapp3.1\Q24.AssemblyInfoInputs.cache
+C:\Users\Andre\Desktop\Lista2\Q24\Q24\obj\Debug\netcoreapp3.1\Q24.AssemblyInfo.cs
+C:\Users\Andre\Desktop\Lista2\Q24\Q24\obj\Debug\netcoreapp3.1\Q24.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\Lista2\Q24\Q24\obj\Debug\netcoreapp3.1\Q24.dll
+C:\Users\Andre\Desktop\Lista2\Q24\Q24\obj\Debug\netcoreapp3.1\Q24.pdb
+C:\Users\Andre\Desktop\Lista2\Q24\Q24\obj\Debug\netcoreapp3.1\Q24.genruntimeconfig.cache
