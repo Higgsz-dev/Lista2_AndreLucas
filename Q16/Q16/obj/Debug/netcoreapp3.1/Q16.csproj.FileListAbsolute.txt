@@ -1,0 +1,12 @@
+C:\Users\Andre\Desktop\Lista2\Q16\Q16\bin\Debug\netcoreapp3.1\Q16.exe
+C:\Users\Andre\Desktop\Lista2\Q16\Q16\bin\Debug\netcoreapp3.1\Q16.deps.json
+C:\Users\Andre\Desktop\Lista2\Q16\Q16\bin\Debug\netcoreapp3.1\Q16.runtimeconfig.json
+C:\Users\Andre\Desktop\Lista2\Q16\Q16\bin\Debug\netcoreapp3.1\Q16.runtimeconfig.dev.json
+C:\Users\Andre\Desktop\Lista2\Q16\Q16\bin\Debug\netcoreapp3.1\Q16.dll
+C:\Users\Andre\Desktop\Lista2\Q16\Q16\bin\Debug\netcoreapp3.1\Q16.pdb
+C:\Users\Andre\Desktop\Lista2\Q16\Q16\obj\Debug\netcoreapp3.1\Q16.AssemblyInfoInputs.cache
+C:\Users\Andre\Desktop\Lista2\Q16\Q16\obj\Debug\netcoreapp3.1\Q16.AssemblyInfo.cs
+C:\Users\Andre\Desktop\Lista2\Q16\Q16\obj\Debug\netcoreapp3.1\Q16.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\Lista2\Q16\Q16\obj\Debug\netcoreapp3.1\Q16.dll
+C:\Users\Andre\Desktop\Lista2\Q16\Q16\obj\Debug\netcoreapp3.1\Q16.pdb
+C:\Users\Andre\Desktop\Lista2\Q16\Q16\obj\Debug\netcoreapp3.1\Q16.genruntimeconfig.cache
