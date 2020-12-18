@@ -1,0 +1,12 @@
+C:\Users\Andre\Desktop\Lista2\Q23\Q23\bin\Debug\netcoreapp3.1\Q23.exe
+C:\Users\Andre\Desktop\Lista2\Q23\Q23\bin\Debug\netcoreapp3.1\Q23.deps.json
+C:\Users\Andre\Desktop\Lista2\Q23\Q23\bin\Debug\netcoreapp3.1\Q23.runtimeconfig.json
+C:\Users\Andre\Desktop\Lista2\Q23\Q23\bin\Debug\netcoreapp3.1\Q23.runtimeconfig.dev.json
+C:\Users\Andre\Desktop\Lista2\Q23\Q23\bin\Debug\netcoreapp3.1\Q23.dll
+C:\Users\Andre\Desktop\Lista2\Q23\Q23\bin\Debug\netcoreapp3.1\Q23.pdb
+C:\Users\Andre\Desktop\Lista2\Q23\Q23\obj\Debug\netcoreapp3.1\Q23.AssemblyInfoInputs.cache
+C:\Users\Andre\Desktop\Lista2\Q23\Q23\obj\Debug\netcoreapp3.1\Q23.AssemblyInfo.cs
+C:\Users\Andre\Desktop\Lista2\Q23\Q23\obj\Debug\netcoreapp3.1\Q23.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\Lista2\Q23\Q23\obj\Debug\netcoreapp3.1\Q23.dll
+C:\Users\Andre\Desktop\Lista2\Q23\Q23\obj\Debug\netcoreapp3.1\Q23.pdb
+C:\Users\Andre\Desktop\Lista2\Q23\Q23\obj\Debug\netcoreapp3.1\Q23.genruntimeconfig.cache
