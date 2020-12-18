@@ -1,0 +1,13 @@
+C:\Users\Andre\Desktop\Lista2\Q14\Q14\bin\Debug\netcoreapp3.1\Q14.exe
+C:\Users\Andre\Desktop\Lista2\Q14\Q14\bin\Debug\netcoreapp3.1\Q14.deps.json
+C:\Users\Andre\Desktop\Lista2\Q14\Q14\bin\Debug\netcoreapp3.1\Q14.runtimeconfig.json
+C:\Users\Andre\Desktop\Lista2\Q14\Q14\bin\Debug\netcoreapp3.1\Q14.runtimeconfig.dev.json
+C:\Users\Andre\Desktop\Lista2\Q14\Q14\bin\Debug\netcoreapp3.1\Q14.dll
+C:\Users\Andre\Desktop\Lista2\Q14\Q14\bin\Debug\netcoreapp3.1\Q14.pdb
+C:\Users\Andre\Desktop\Lista2\Q14\Q14\obj\Debug\netcoreapp3.1\Q14.csprojAssemblyReference.cache
+C:\Users\Andre\Desktop\Lista2\Q14\Q14\obj\Debug\netcoreapp3.1\Q14.AssemblyInfoInputs.cache
+C:\Users\Andre\Desktop\Lista2\Q14\Q14\obj\Debug\netcoreapp3.1\Q14.AssemblyInfo.cs
+C:\Users\Andre\Desktop\Lista2\Q14\Q14\obj\Debug\netcoreapp3.1\Q14.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\Lista2\Q14\Q14\obj\Debug\netcoreapp3.1\Q14.dll
+C:\Users\Andre\Desktop\Lista2\Q14\Q14\obj\Debug\netcoreapp3.1\Q14.pdb
+C:\Users\Andre\Desktop\Lista2\Q14\Q14\obj\Debug\netcoreapp3.1\Q14.genruntimeconfig.cache
