@@ -1,0 +1,12 @@
+C:\Users\Andre\Desktop\Lista2\Q42\Q42\bin\Debug\netcoreapp3.1\Q42.exe
+C:\Users\Andre\Desktop\Lista2\Q42\Q42\bin\Debug\netcoreapp3.1\Q42.deps.json
+C:\Users\Andre\Desktop\Lista2\Q42\Q42\bin\Debug\netcoreapp3.1\Q42.runtimeconfig.json
+C:\Users\Andre\Desktop\Lista2\Q42\Q42\bin\Debug\netcoreapp3.1\Q42.runtimeconfig.dev.json
+C:\Users\Andre\Desktop\Lista2\Q42\Q42\bin\Debug\netcoreapp3.1\Q42.dll
+C:\Users\Andre\Desktop\Lista2\Q42\Q42\bin\Debug\netcoreapp3.1\Q42.pdb
+C:\Users\Andre\Desktop\Lista2\Q42\Q42\obj\Debug\netcoreapp3.1\Q42.AssemblyInfoInputs.cache
+C:\Users\Andre\Desktop\Lista2\Q42\Q42\obj\Debug\netcoreapp3.1\Q42.AssemblyInfo.cs
+C:\Users\Andre\Desktop\Lista2\Q42\Q42\obj\Debug\netcoreapp3.1\Q42.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\Lista2\Q42\Q42\obj\Debug\netcoreapp3.1\Q42.dll
+C:\Users\Andre\Desktop\Lista2\Q42\Q42\obj\Debug\netcoreapp3.1\Q42.pdb
+C:\Users\Andre\Desktop\Lista2\Q42\Q42\obj\Debug\netcoreapp3.1\Q42.genruntimeconfig.cache
