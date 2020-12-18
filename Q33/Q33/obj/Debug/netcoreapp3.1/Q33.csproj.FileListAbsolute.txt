@@ -1,0 +1,13 @@
+C:\Users\Andre\Desktop\Lista2\Q33\Q33\bin\Debug\netcoreapp3.1\Q33.exe
+C:\Users\Andre\Desktop\Lista2\Q33\Q33\bin\Debug\netcoreapp3.1\Q33.deps.json
+C:\Users\Andre\Desktop\Lista2\Q33\Q33\bin\Debug\netcoreapp3.1\Q33.runtimeconfig.json
+C:\Users\Andre\Desktop\Lista2\Q33\Q33\bin\Debug\netcoreapp3.1\Q33.runtimeconfig.dev.json
+C:\Users\Andre\Desktop\Lista2\Q33\Q33\bin\Debug\netcoreapp3.1\Q33.dll
+C:\Users\Andre\Desktop\Lista2\Q33\Q33\bin\Debug\netcoreapp3.1\Q33.pdb
+C:\Users\Andre\Desktop\Lista2\Q33\Q33\obj\Debug\netcoreapp3.1\Q33.csprojAssemblyReference.cache
+C:\Users\Andre\Desktop\Lista2\Q33\Q33\obj\Debug\netcoreapp3.1\Q33.AssemblyInfoInputs.cache
+C:\Users\Andre\Desktop\Lista2\Q33\Q33\obj\Debug\netcoreapp3.1\Q33.AssemblyInfo.cs
+C:\Users\Andre\Desktop\Lista2\Q33\Q33\obj\Debug\netcoreapp3.1\Q33.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\Lista2\Q33\Q33\obj\Debug\netcoreapp3.1\Q33.dll
+C:\Users\Andre\Desktop\Lista2\Q33\Q33\obj\Debug\netcoreapp3.1\Q33.pdb
+C:\Users\Andre\Desktop\Lista2\Q33\Q33\obj\Debug\netcoreapp3.1\Q33.genruntimeconfig.cache
